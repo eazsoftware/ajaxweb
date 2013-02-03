@@ -28,7 +28,7 @@
         $.ajaxSetup ({  
              cache: false  
          });  
-         var ajax_load = "<img src='img/ajax_loading.gif' alt='loading...' />";  
+         var ajax_load = "<img src='../img/ajax_loading.gif' alt='loading...' />";  
         //  load() functions  
          var loadUrl = "whattimeisit-div.jsp?name=Javier";  
          $("#load_basic").click(function(){  

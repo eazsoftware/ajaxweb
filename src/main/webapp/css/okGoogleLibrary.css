@@ -1,0 +1,16 @@
+/* http://www.w3schools.com/cssref/pr_gen_content.asp*/
+/* http://www.w3schools.com/cssref/pr_gen_content.asp */
+
+.libraryLoad:before
+{               
+    content: "jQuery library loaded from ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js!";
+}
+
+.libraryLoad
+{
+    background-color:#d0e4fe;
+    color: orange;
+    text-align: center;
+    font-family:"Times New Roman";
+    font-size: 20px; 
+}
