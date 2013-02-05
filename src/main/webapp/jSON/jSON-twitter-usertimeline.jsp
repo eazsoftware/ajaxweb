@@ -27,6 +27,7 @@
             <li><a href="https://en.wikipedia.org/wiki/JSONP">JSONP or "JSON with padding</a></li>    
             <li><a href="http://jsfiddle.net/nogoodatcoding/reJN6/4/">Accessing Twitter json-service-from-localhost</a></li>             
             <li><a href="http://www.zqna.net/qna/rmsim-getjson-timeout-handling.html">getJSON timeout handling</a></li>
+            <li><a href="http://stackoverflow.com/questions/8138021/best-way-to-check-if-ajax-request-was-successful-in-jquery">Best way to check if AJAX request was successful in jQuery</a></li>
         </ul>
 
         <div class="container">

@@ -10,7 +10,7 @@
 %>
 <div id="hola"><%= "Hi " + strName + ". It's " + new java.util.Date() %></div>
 <a href="http://www.android.com/" id="picture" target="_blank">
-	<img src="img/android-logo.jpg"></img>
+	<img src="../img/android-logo.jpg"></img>
 </a>
 <h2>Android!</h2>
 <p>Android rulez!</p>

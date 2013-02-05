@@ -13,7 +13,10 @@
             <li><a href="simpleAjax/simpleAjax.jsp">Simple Ajax call</a></li>
             <li><a href="simpleAjax/w3school.jsp">W3School Ajax call</a></li>
             <li><a href="jQuery/jQueryAjax-load.jsp">jQuery Ajax Load()</a></li>
+            <li><a href="jQuery/jQueryAjax-loadGETParams.jsp">jQuery Ajax Load() - GET parameters</a></li>
+            <li><a href="jQuery/jQueryAjax-loadPOSTParams.jsp">jQuery Ajax Load() - POST parameters</a></li>
             <li><a href="jQuery/jQueryAjax-loadDOM.jsp">jQuery Ajax Load() DOM#</a></li>
+            <li><a href="jQuery/jQueryAjax-getScript.jsp">jQuery Ajax getScript</a></li>            
             <li><a href="jQuery/jQueryAjax-callback.jsp">jQuery Ajax Function</a></li>          
             <li><a href="jQuery/jQueryAjax-noloadGoogle.jsp">jQuery Ajax - no load Google jQuery library</a></li> 
         </ul>
